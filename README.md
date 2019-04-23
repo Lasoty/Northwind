@@ -1,0 +1,2 @@
+# Northwind
+Baza danych Nothwind
